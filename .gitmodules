@@ -1,0 +1,9 @@
+[submodule "inventory"]
+	path = inventory
+	url = git@github.com:ansibulary/inventory.git
+[submodule "playbooks"]
+	path = playbooks
+	url = git@github.com:ansibulary/playbooks.git
+[submodule "roles"]
+	path = roles
+	url = git@github.com:ansibulary/roles.git
