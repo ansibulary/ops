@@ -22,6 +22,7 @@ submodule manifest:
 
 
 Copyright (C) 2018 Josiah England - All Rights Reserved
+
 Distributed under the GNU General Public License v3.0
 
-See `COPYING <COPYING>` for full text.
+See `COPYING` for full text.
